@@ -17,11 +17,11 @@
 * [Towers of Hanoi](https://claytonjwong.github.io/Towers-Of-Hanoi/)
 
 ## Competitive Programming
-### [LeetCode.com](https://leetcode.com/claytonjwong/)
+## [LeetCode.com](https://leetcode.com/claytonjwong/)
 * [C++](https://github.com/claytonjwong/leetcode)
 * [JS](https://github.com/claytonjwong/js-sandbox)
 
-### [AdventOfCode.com](https://www.adventofcode.com/)
+## [AdventOfCode.com](https://www.adventofcode.com/)
 * [C++](https://github.com/claytonjwong/advent-of-code)
 
 ## Supplemental
