@@ -13,7 +13,7 @@
 * [Bioinformatics](https://github.com/claytonjwong/algo-bioinformatics)
 
 ## Algorithmic Projects
-* Rubik's Cube (TODO!)
+* [Rubik's Cube](https://claytonjwong.github.io/rubiks-cube/)
 * [Towers of Hanoi](https://claytonjwong.github.io/Towers-Of-Hanoi/)
 
 ## Competitive Programming
