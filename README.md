@@ -1,5 +1,7 @@
 # Algorithms
-> You have to let it all go, Neo - fear, doubt, and disbelief...  **Free your mind.** [-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
+> You have to let it all go, Neo - fear, doubt, and disbelief...  **Free your mind.**
+> 
+[-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
 ## Overivew
 * [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
