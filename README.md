@@ -1,5 +1,5 @@
 # Algorithms
-> You have to let it all go, Neo - fear, doubt, and disbelief...  **Free your mind.** -Morpheus [R1]
+> You have to let it all go, Neo - fear, doubt, and disbelief...  **Free your mind.** [-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
 ## Overivew
 * [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
@@ -9,6 +9,10 @@
 ## String Algorithms
 * [Algorithms for DNA Sequencing by Johns Hopkins University](https://claytonjwong.github.io/Algorithms-DNA-Sequencing/)
 * [Bioinformatics](https://github.com/claytonjwong/algo-bioinformatics)
+
+## Algorithmic Projects
+* Rubik's Cube (TODO!)
+* [Towers of Hanoi](https://claytonjwong.github.io/Towers-Of-Hanoi/)
 
 ## Competitive Programming
 ### [LeetCode.com](https://leetcode.com/claytonjwong/)
@@ -21,6 +25,3 @@
 ## Supplemental
 * [Speed Reading with the Right Brain](https://claytonjwong.github.io/reading/)
 * [How to be an Imperfectionist](https://claytonjwong.github.io/imperfectionist/)
-
-## References
-[R1]: [The Matrix (1999)](https://en.wikipedia.org/wiki/The_Matrix)
