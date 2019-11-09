@@ -19,7 +19,7 @@
 ## Competitive Programming
 ### [LeetCode.com](https://leetcode.com/claytonjwong/)
 * [C++](https://github.com/claytonjwong/leetcode)
-* [Javascript](https://github.com/claytonjwong/js-sandbox)
+* [JS](https://github.com/claytonjwong/js-sandbox)
 
 ### [AdventOfCode.com](https://www.adventofcode.com/)
 * [C++](https://github.com/claytonjwong/advent-of-code)
