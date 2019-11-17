@@ -25,6 +25,7 @@
 * [C++](https://github.com/claytonjwong/advent-of-code)
 
 ## Supplemental
+* [Mini Habits](https://claytonjwong.github.io/mini-habits/)
 * [Speed Reading with the Right Brain](https://claytonjwong.github.io/reading/)
 * [How to be an Imperfectionist](https://claytonjwong.github.io/imperfectionist/)
 
