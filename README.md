@@ -22,7 +22,9 @@
 * [JS](https://github.com/claytonjwong/js-sandbox)
 
 ## [AdventOfCode.com](https://www.adventofcode.com/)
-* [C++](https://github.com/claytonjwong/advent-of-code)
+* [2019 - JS](https://github.com/claytonjwong/advent-of-code#2019)
+* [2018 - C++](https://github.com/claytonjwong/advent-of-code#2018)
+* [2017 - C++](https://github.com/claytonjwong/advent-of-code#2017)
 
 ## Supplemental
 * [Mini Habits](https://claytonjwong.github.io/mini-habits/)
