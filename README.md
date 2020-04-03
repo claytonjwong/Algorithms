@@ -5,11 +5,12 @@
 
 ## Overivew
 * [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
+
+## Algorithms
 * [Algorithms Specialization by Stanford University](https://claytonjwong.github.io/Algorithms-Stanford/)
 * [Algorithms and Data Structures by UC San Diego](https://claytonjwong.github.io/Algorithms-UCSanDiego/)
-
-## String Algorithms
 * [Algorithms for DNA Sequencing by Johns Hopkins University](https://claytonjwong.github.io/Algorithms-DNA-Sequencing/)
+* [Competitive Programmer's Core Skills by Saint Petersburg State University](https://claytonjwong.github.io/competitive-programming/)
 * [Bioinformatics](https://github.com/claytonjwong/algo-bioinformatics)
 
 ## Algorithmic Projects
