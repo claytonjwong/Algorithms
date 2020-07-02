@@ -5,6 +5,7 @@
 
 ## Overivew
 * [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
+* [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
 
 ## Algorithms
 * [Algorithms Specialization by Stanford University](https://claytonjwong.github.io/Algorithms-Stanford/)
