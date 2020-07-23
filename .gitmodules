@@ -40,3 +40,6 @@
 [submodule "imperfectionist"]
 	path = imperfectionist
 	url = git@github.com:claytonjwong/imperfectionist.git
+[submodule "rubiks-cube"]
+	path = rubiks-cube
+	url = git@github.com:claytonjwong/rubiks-cube.git
