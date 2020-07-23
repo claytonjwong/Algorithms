@@ -13,9 +13,6 @@
 [submodule "Algorithms-Stanford"]
 	path = Algorithms-Stanford
 	url = git@github.com:claytonjwong/Algorithms-Stanford.git
-[submodule "rubiks-cube"]
-	path = rubiks-cube
-	url = git@github.com:claytonjwong/rubiks-cube.git
 [submodule "Algorithms-UCSanDiego"]
 	path = Algorithms-UCSanDiego
 	url = git@github.com:claytonjwong/Algorithms-UCSanDiego.git
