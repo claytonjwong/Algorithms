@@ -3,6 +3,13 @@
 > 
 [-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
+## Download Instructions
+Use git to clone this repository and submodules from the command line:
+
+    git clone git@github.com:claytonjwong/Algorithms.git
+    cd Algorithms
+    git submodule update --init --recursive
+
 ## Overivew
 * [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
 * [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
