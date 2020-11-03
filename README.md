@@ -27,9 +27,10 @@ Use git to clone this repository and submodules from the command line:
 
 ## Competitive Programming
 ## [LeetCode.com](https://leetcode.com/claytonjwong/)
-* [C++](https://github.com/claytonjwong/leetcode)
+* [KT](https://github.com/claytonjwong/leetcode-kt)
 * [JS](https://github.com/claytonjwong/leetcode-js)
 * [PY](https://github.com/claytonjwong/leetcode-py)
+* [C++](https://github.com/claytonjwong/leetcode)
 
 ## [AdventOfCode.com](https://www.adventofcode.com/)
 * [2019 - JS](https://github.com/claytonjwong/advent-of-code#2019)
