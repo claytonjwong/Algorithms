@@ -6,13 +6,17 @@
 ## Download Instructions
 Use git to clone this repository and submodules from the command line:
 
+```
     git clone git@github.com:claytonjwong/Algorithms.git
     cd Algorithms
     git submodule update --init --recursive
+```
 
 Update existing submodules from the command line:
 
+```
     git submodule update --recursive --remote
+```
 
 ## Overivew
 * [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
