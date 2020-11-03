@@ -19,9 +19,6 @@
 [submodule "Towers-Of-Hanoi"]
 	path = Towers-Of-Hanoi
 	url = git@github.com:claytonjwong/Towers-Of-Hanoi.git
-[submodule "leetcode-kt"]
-	path = leetcode-kt
-	url = git@github.com:claytonjwong/leetcode-kt.git
 [submodule "leetcode-js"]
 	path = leetcode-js
 	url = git@github.com:claytonjwong/leetcode-js.git
@@ -46,3 +43,6 @@
 [submodule "rubiks-cube"]
 	path = rubiks-cube
 	url = git@github.com:claytonjwong/rubiks-cube.git
+[submodule "leetcode-kt"]
+	path = leetcode-kt
+	url = git@github.com:claytonjwong/leetcode-kt.git
