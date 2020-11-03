@@ -1,45 +1,48 @@
 [submodule "Master-Theorem"]
 	path = Master-Theorem
-	url = git@github.com:claytonjwong/Master-Theorem.git
+	url = https://github.com/claytonjwong/Master-Theorem.git
 [submodule "The-ART-of-Dynamic-Programming"]
 	path = The-ART-of-Dynamic-Programming
-	url = git@github.com:claytonjwong/The-ART-of-Dynamic-Programming.git
+	url = https://github.com/claytonjwong/The-ART-of-Dynamic-Programming.git
+[submodule "Algorithms-DNA-Sequencing"]
+	path = Algorithms-DNA-Sequencing
+	url = https://github.com/claytonjwong/Algorithms-DNA-Sequencing.git
 [submodule "competitive-programming"]
 	path = competitive-programming
-	url = git@github.com:claytonjwong/competitive-programming.git
+	url = https://github.com/claytonjwong/competitive-programming.git
 [submodule "Algorithms-Stanford"]
 	path = Algorithms-Stanford
-	url = git@github.com:claytonjwong/Algorithms-Stanford.git
+	url = https://github.com/claytonjwong/Algorithms-Stanford.git
 [submodule "Algorithms-UCSanDiego"]
 	path = Algorithms-UCSanDiego
-	url = git@github.com:claytonjwong/Algorithms-UCSanDiego.git
+	url = https://github.com/claytonjwong/Algorithms-UCSanDiego.git
 [submodule "Towers-Of-Hanoi"]
 	path = Towers-Of-Hanoi
-	url = git@github.com:claytonjwong/Towers-Of-Hanoi.git
+	url = https://github.com/claytonjwong/Towers-Of-Hanoi.git
 [submodule "leetcode-js"]
 	path = leetcode-js
-	url = git@github.com:claytonjwong/leetcode-js.git
+	url = https://github.com/claytonjwong/leetcode-js.git
 [submodule "leetcode-py"]
 	path = leetcode-py
-	url = git@github.com:claytonjwong/leetcode-py.git
+	url = https://github.com/claytonjwong/leetcode-py.git
 [submodule "advent-of-code"]
 	path = advent-of-code
-	url = git@github.com:claytonjwong/advent-of-code.git
+	url = https://github.com/claytonjwong/advent-of-code.git
 [submodule "mini-habits"]
 	path = mini-habits
-	url = git@github.com:claytonjwong/mini-habits.git
+	url = https://github.com/claytonjwong/mini-habits.git
 [submodule "reading"]
 	path = reading
-	url = git@github.com:claytonjwong/reading.git
+	url = https://github.com/claytonjwong/reading.git
 [submodule "leetcode"]
 	path = leetcode
-	url = git@github.com:claytonjwong/leetcode.git
+	url = https://github.com/claytonjwong/leetcode.git
 [submodule "imperfectionist"]
 	path = imperfectionist
-	url = git@github.com:claytonjwong/imperfectionist.git
+	url = https://github.com/claytonjwong/imperfectionist.git
 [submodule "rubiks-cube"]
 	path = rubiks-cube
-	url = git@github.com:claytonjwong/rubiks-cube.git
+	url = https://github.com/claytonjwong/rubiks-cube.git
 [submodule "leetcode-kt"]
 	path = leetcode-kt
-	url = git@github.com:claytonjwong/leetcode-kt.git
+	url = https://github.com/claytonjwong/leetcode-kt.git
