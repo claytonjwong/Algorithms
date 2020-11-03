@@ -11,6 +11,7 @@ Use git to clone this repository and submodules from the command line:
     git submodule update --init --recursive
 
 Update existing submodules from the command line:
+
     git submodule update --recursive --remote
 
 ## Overivew
