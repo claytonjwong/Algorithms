@@ -10,6 +10,9 @@ Use git to clone this repository and submodules from the command line:
     cd Algorithms
     git submodule update --init --recursive
 
+Update existing submodules from the command line:
+    git submodule update --recursive --remote
+
 ## Overivew
 * [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
 * [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
