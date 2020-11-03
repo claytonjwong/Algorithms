@@ -4,9 +4,6 @@
 [submodule "The-ART-of-Dynamic-Programming"]
 	path = The-ART-of-Dynamic-Programming
 	url = git@github.com:claytonjwong/The-ART-of-Dynamic-Programming.git
-[submodule "Algorithms-DNA-Sequencing"]
-	path = Algorithms-DNA-Sequencing
-	url = git@github.com:claytonjwong/Algorithms-DNA-Sequencing.git
 [submodule "competitive-programming"]
 	path = competitive-programming
 	url = git@github.com:claytonjwong/competitive-programming.git
