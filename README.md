@@ -18,6 +18,13 @@ Update existing submodules from the command line:
     git submodule update --recursive --remote
 ```
 
+## Jedi Mind Tricks
+* [Mini Habits](https://claytonjwong.github.io/mini-habits/)
+* [Learning How to Learn](https://claytonjwong.github.io/learning/)
+* [How to be an Imperfectionist](https://claytonjwong.github.io/imperfectionist/)
+* [Science of Well-Being](https://claytonjwong.github.io/wellness/)
+* [Speed Reading with the Right Brain](https://claytonjwong.github.io/reading/)
+
 ## Overivew
 * [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
 * [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
@@ -45,11 +52,6 @@ Update existing submodules from the command line:
 * [2019 - JS](https://github.com/claytonjwong/advent-of-code#2019)
 * [2018 - C++](https://github.com/claytonjwong/advent-of-code#2018)
 * [2017 - C++](https://github.com/claytonjwong/advent-of-code#2017)
-
-## Supplemental
-* [Mini Habits](https://claytonjwong.github.io/mini-habits/)
-* [Speed Reading with the Right Brain](https://claytonjwong.github.io/reading/)
-* [How to be an Imperfectionist](https://claytonjwong.github.io/imperfectionist/)
 
 ## Resources
 * [Algorithms: Dasgupta-Papadimitriou-Vazirani ( 2006 )](https://github.com/claytonjwong/Algorithms-Stanford/tree/master/documentation/Dasgupta-Papadimitriou-Vazirani.pdf)
