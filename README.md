@@ -25,11 +25,6 @@ Update existing submodules from the command line:
 * [Science of Well-Being](https://claytonjwong.github.io/wellness/)
 * [Speed Reading with the Right Brain](https://claytonjwong.github.io/reading/)
 
-## Overivew
-* [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
-* [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
-* [The Art and Theory of Dynamic Programming](https://www.academia.edu/8817530/The_Art_and_Theory_of_Dynamic_Programming)
-
 ## Algorithms
 * [Algorithms Specialization by Stanford University](https://claytonjwong.github.io/Algorithms-Stanford/)
 * [Algorithms and Data Structures by UC San Diego](https://claytonjwong.github.io/Algorithms-UCSanDiego/)
@@ -37,7 +32,12 @@ Update existing submodules from the command line:
 * [Competitive Programmer's Core Skills by Saint Petersburg State University](https://claytonjwong.github.io/competitive-programming/)
 * [Bioinformatics](https://github.com/claytonjwong/algo-bioinformatics)
 
-## Algorithmic Projects
+## Recursion
+* [Master Theorem](https://claytonjwong.github.io/Master-Theorem/)
+* [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
+* [The Art and Theory of Dynamic Programming](https://www.academia.edu/8817530/The_Art_and_Theory_of_Dynamic_Programming)
+
+## Projects
 * [Rubik's Cube](https://claytonjwong.github.io/rubiks-cube/)
 * [Towers of Hanoi](https://claytonjwong.github.io/Towers-Of-Hanoi/)
 
@@ -59,3 +59,8 @@ Update existing submodules from the command line:
 * [Introduction to Algorithms: Cormen-Leiserson-Rivest-Stein ( 2009 )](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 * [Discrete Probability](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability)
 * [Mathematical Proofs](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Mathematical_Proofs)
+
+## Beneficial Music
+* [Try To Be Best](https://www.youtube.com/watch?v=oomCIXGzsR0)
+* [Try Everything](https://www.youtube.com/watch?v=c6rP-YP4c5I)
+* [Get Back Up Again](https://www.youtube.com/watch?v=IFuFm0m2wj0)
