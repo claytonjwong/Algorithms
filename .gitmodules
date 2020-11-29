@@ -46,3 +46,6 @@
 [submodule "leetcode-kt"]
 	path = leetcode-kt
 	url = https://github.com/claytonjwong/leetcode-kt.git
+[submodule "learning"]
+	path = learning
+	url = https://github.com/claytonjwong/learning
