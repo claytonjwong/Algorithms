@@ -50,7 +50,9 @@ Update existing submodules from the command line:
 * [C++](https://github.com/claytonjwong/leetcode)
 
 ## [AdventOfCode.com](https://www.adventofcode.com/)
-* [2019 - JS](https://github.com/claytonjwong/advent-of-code#2019)
+
+* [2020 - PY](https://claytonjwong.github.io/advent-of-code/2020/)
+* [2019 - JS](https://claytonjwong.github.io/advent-of-code/2019/)
 * [2018 - C++](https://github.com/claytonjwong/advent-of-code#2018)
 * [2017 - C++](https://github.com/claytonjwong/advent-of-code#2017)
 
