@@ -63,7 +63,7 @@ Update existing submodules from the command line:
 * [Discrete Probability](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability)
 * [Mathematical Proofs](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Mathematical_Proofs)
 
-## Beneficial Music
+## Beneficial Songs
 * [Try To Be Best](https://www.youtube.com/watch?v=oomCIXGzsR0)
 * [Try Everything](https://www.youtube.com/watch?v=c6rP-YP4c5I)
 * [Get Back Up Again](https://www.youtube.com/watch?v=IFuFm0m2wj0)
