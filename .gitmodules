@@ -49,3 +49,6 @@
 [submodule "learning"]
 	path = learning
 	url = https://github.com/claytonjwong/learning
+[submodule "Algorithms-Illuminated"]
+	path = Algorithms-Illuminated
+	url = git@github.com:claytonjwong/Algorithms-Illuminated.git
