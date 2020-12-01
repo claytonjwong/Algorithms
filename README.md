@@ -53,8 +53,8 @@ Update existing submodules from the command line:
 
 * [2020 - PY](https://claytonjwong.github.io/advent-of-code/2020/)
 * [2019 - JS](https://claytonjwong.github.io/advent-of-code/2019/)
-* [2018 - C++](https://github.com/claytonjwong/advent-of-code#2018)
-* [2017 - C++](https://github.com/claytonjwong/advent-of-code#2017)
+* [2018 - C++](https://github.com/claytonjwong/advent-of-code/tree/master/2018)
+* [2017 - C++](https://github.com/claytonjwong/advent-of-code/tree/master/2017)
 
 ## Resources
 * [Algorithms: Dasgupta-Papadimitriou-Vazirani ( 2006 )](https://github.com/claytonjwong/Algorithms-Stanford/tree/master/documentation/Dasgupta-Papadimitriou-Vazirani.pdf)
