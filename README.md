@@ -26,7 +26,7 @@ Update existing submodules from the command line:
 * [Speed Reading with the Right Brain](https://claytonjwong.github.io/reading/)
 
 ## Algorithms
-* [Algorithms Illuminated](https://claytonjwong.github.io/Algorithms-Illuminated/)
+* [Algorithms Illuminated](https://www.github.com/claytonjwong/Algorithms-Illuminated/)
 * [Algorithms Specialization by Stanford University](https://claytonjwong.github.io/Algorithms-Stanford/)
 * [Algorithms and Data Structures by UC San Diego](https://claytonjwong.github.io/Algorithms-UCSanDiego/)
 * [Algorithms for DNA Sequencing by Johns Hopkins University](https://claytonjwong.github.io/Algorithms-DNA-Sequencing/)
