@@ -22,8 +22,9 @@ Update existing submodules from the command line:
 * [Mini Habits](https://claytonjwong.github.io/mini-habits/)
 * [Learning How to Learn](https://claytonjwong.github.io/learning/)
 * [How to be an Imperfectionist](https://claytonjwong.github.io/imperfectionist/)
-* [Science of Well-Being](https://claytonjwong.github.io/wellness/)
 * [Speed Reading with the Right Brain](https://claytonjwong.github.io/reading/)
+* [Science of Well-Being](https://claytonjwong.github.io/wellness/)
+* [A Liberated Mind: How to Pivot Toward What Matters](https://claytonjwong.github.io/ACT/)
 
 ## Algorithms
 * [Algorithms Illuminated](https://www.github.com/claytonjwong/Algorithms-Illuminated/)
