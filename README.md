@@ -15,7 +15,7 @@ Use git to clone this repository and submodules from the command line:
 Update existing submodules from the command line:
 
 ```
-    git submodule update --recursive --remote
+    git pull --recurse-submodules
 ```
 
 ## Jedi Mind Tricks
