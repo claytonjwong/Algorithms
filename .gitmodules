@@ -52,3 +52,6 @@
 [submodule "Algorithms-Illuminated"]
 	path = Algorithms-Illuminated
 	url = git@github.com:claytonjwong/Algorithms-Illuminated.git
+[submodule "ACT"]
+	path = ACT
+	url = git@github.com:claytonjwong/ACT.git
