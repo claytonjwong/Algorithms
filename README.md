@@ -1,6 +1,6 @@
 # Algorithms
 > You have to let it all go, Neo - fear, doubt, and disbelief...  **Free your mind.**
-> 
+>
 [-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
 ## Download Instructions
@@ -25,6 +25,10 @@ Update existing submodules from the command line:
 * [Speed Reading with the Right Brain](https://claytonjwong.github.io/reading/)
 * [Science of Well-Being](https://claytonjwong.github.io/wellness/)
 * [A Liberated Mind: How to Pivot Toward What Matters](https://claytonjwong.github.io/ACT/)
+* The Socratic Method
+* The Obstacle is the Way: The Timeless Art of Turning Trials into Triumph
+* Ego is the Enemy
+* Courage is Calling: Fortune Favors the Brave
 
 ## Algorithms
 * [Algorithms Illuminated](https://www.github.com/claytonjwong/Algorithms-Illuminated/)
