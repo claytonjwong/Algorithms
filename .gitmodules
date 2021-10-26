@@ -55,3 +55,6 @@
 [submodule "ACT"]
 	path = ACT
 	url = git@github.com:claytonjwong/ACT.git
+[submodule "socartic-method"]
+	path = socartic-method
+	url = git@github.com:claytonjwong/socartic-method.git
