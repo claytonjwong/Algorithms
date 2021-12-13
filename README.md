@@ -25,7 +25,7 @@ Update existing submodules from the command line:
 * [Speed Reading with the Right Brain](https://claytonjwong.github.io/reading/)
 * [Science of Well-Being](https://claytonjwong.github.io/wellness/)
 * [A Liberated Mind: How to Pivot Toward What Matters](https://claytonjwong.github.io/ACT/)
-* [The Socratic Method](https://claytonjwong.github.io/socartic-method/)
+* [The Socratic Method](https://claytonjwong.github.io/socratic-method/)
 * The Obstacle is the Way: The Timeless Art of Turning Trials into Triumph
 * Ego is the Enemy
 * Courage is Calling: Fortune Favors the Brave
