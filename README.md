@@ -69,6 +69,7 @@ Update existing submodules from the command line:
 * [Mathematical Proofs](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Mathematical_Proofs)
 
 ## Beneficial Songs
+* [Whatever It Takes](https://www.youtube.com/watch?v=gOsM-DYAEhY)
 * [Try To Be Best](https://www.youtube.com/watch?v=oomCIXGzsR0)
 * [Try Everything](https://www.youtube.com/watch?v=c6rP-YP4c5I)
 * [Get Back Up Again](https://www.youtube.com/watch?v=IFuFm0m2wj0)
