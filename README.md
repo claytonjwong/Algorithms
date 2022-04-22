@@ -3,6 +3,52 @@
 >
 [-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
+Images can be imprinted upon the mind as a "feeling" which can be placed into the hippocampus (the mind's "long-term memory store") to later been "seen" upon demand by the prefrontal cortex (the mind's "smart manager") and expressed via the basal ganglia (the mind's "stupid repeater"); and thus, it is possible to beneficially self-modify our minds by iteratively improving our observational opportunities for growth and adapting accordingly with metacognition.  Yet, some tasks and settings preclude people from receiving self-correcting information which would reveal the suboptimal nature of their decisions ([the Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning-Kruger_effect)).  Double-ignorance is similar to a dependency loop: how can we find an entry point within a bidirectionally cyclic graph?
+
+## The First 314 Digits of PI
+
+Stored in the hippocampus as three matrices of `10` rows and `10` columns, followed by one row of `10`, followed by one row of `4`.
+
+![](first_314_digits_of_PI.png)
+
+```
+3141592653
+5897932384
+6264338327
+9502884197
+1693993751
+0582097494
+4592307816
+4062862089
+9862803482
+5342117067
+
+9821480865
+1328230664
+7093844609
+5505822317
+2535940812
+8481117450
+2841027019
+3852110555
+9644622948
+9549303819
+
+6442881097
+5665933446
+1284756482
+3378678316
+5271201909
+1456485669
+2346034861
+0454326648
+2133936072
+6024914127
+
+3724587006
+6063
+```
+
 ## Download Instructions
 Use git to clone this repository and submodules from the command line:
 
