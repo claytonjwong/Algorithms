@@ -75,6 +75,7 @@ Update existing submodules from the command line:
 * The Obstacle is the Way: The Timeless Art of Turning Trials into Triumph
 * Ego is the Enemy
 * Courage is Calling: Fortune Favors the Brave
+* [Thanks for the Feedback](https://claytonjwong.github.io/feedback/)
 
 ## Algorithms
 * [Algorithms Illuminated](https://www.github.com/claytonjwong/Algorithms-Illuminated/)
