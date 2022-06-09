@@ -58,3 +58,6 @@
 [submodule "socartic-method"]
 	path = socartic-method
 	url = git@github.com:claytonjwong/socartic-method.git
+[submodule "feedback"]
+	path = feedback
+	url = git@github.com:claytonjwong/feedback.git
