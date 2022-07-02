@@ -76,6 +76,7 @@ Update existing submodules from the command line:
 * Ego is the Enemy
 * Courage is Calling: Fortune Favors the Brave
 * [Thanks for the Feedback](https://claytonjwong.github.io/feedback/)
+* [The Score Takes Care of Itself: My Philosophy of Leadership](https://claytonjwong.github.io/bill-walsh/)
 
 ## Algorithms
 * [Algorithms Illuminated](https://www.github.com/claytonjwong/Algorithms-Illuminated/)
