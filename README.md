@@ -77,6 +77,7 @@ Update existing submodules from the command line:
 * Courage is Calling: Fortune Favors the Brave
 * [Thanks for the Feedback](https://claytonjwong.github.io/feedback/)
 * [The Score Takes Care of Itself: My Philosophy of Leadership](https://claytonjwong.github.io/bill-walsh/)
+* [The 7 Habits of Highly Effective People](https://claytonjwong.github.io/seven-habits/)
 
 ## Algorithms
 * [Algorithms Illuminated](https://www.github.com/claytonjwong/Algorithms-Illuminated/)
