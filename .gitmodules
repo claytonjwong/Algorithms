@@ -61,3 +61,6 @@
 [submodule "feedback"]
 	path = feedback
 	url = git@github.com:claytonjwong/feedback.git
+[submodule "bill-walsh"]
+	path = bill-walsh
+	url = git@github.com:claytonjwong/bill-walsh.git
