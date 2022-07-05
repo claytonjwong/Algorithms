@@ -79,6 +79,7 @@ Update existing submodules from the command line:
 * [The Score Takes Care of Itself: My Philosophy of Leadership](https://claytonjwong.github.io/bill-walsh/)
 * [The 7 Habits of Highly Effective People](https://claytonjwong.github.io/seven-habits/)
 * [Professional Skills for the Workplace]([)](https://claytonjwong.github.io/professional-skills-for-the-workplace/)
+* [Emotional Intelligence: Cultivating Immensely Human Interactions](https://claytonjwong.github.io/emotional-intelligence/)
 
 ## Algorithms
 * [Algorithms Illuminated](https://www.github.com/claytonjwong/Algorithms-Illuminated/)

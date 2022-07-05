@@ -70,3 +70,6 @@
 [submodule "professional-skills-for-the-workplace"]
 	path = professional-skills-for-the-workplace
 	url = git@github.com:claytonjwong/professional-skills-for-the-workplace.git
+[submodule "emotional-intelligence"]
+	path = emotional-intelligence
+	url = git@github.com:claytonjwong/emotional-intelligence.git
