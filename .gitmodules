@@ -67,3 +67,6 @@
 [submodule "seven-habits"]
 	path = seven-habits
 	url = git@github.com:claytonjwong/seven-habits.git
+[submodule "professional-skills-for-the-workplace"]
+	path = professional-skills-for-the-workplace
+	url = git@github.com:claytonjwong/professional-skills-for-the-workplace.git
