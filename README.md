@@ -82,6 +82,11 @@ Update existing submodules from the command line:
 * [Emotional Intelligence: Cultivating Immensely Human Interactions](https://claytonjwong.github.io/emotional-intelligence/)
 
 ## Algorithms
+
+> Simplicity is the ultimate sophistication
+>
+–[Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
+
 * [Algorithms Illuminated](https://www.github.com/claytonjwong/Algorithms-Illuminated/)
 * [Algorithms Specialization by Stanford University](https://claytonjwong.github.io/Algorithms-Stanford/)
 * [Algorithms and Data Structures by UC San Diego](https://claytonjwong.github.io/Algorithms-UCSanDiego/)
