@@ -73,3 +73,6 @@
 [submodule "emotional-intelligence"]
 	path = emotional-intelligence
 	url = git@github.com:claytonjwong/emotional-intelligence.git
+[submodule "difficult-conversations"]
+	path = difficult-conversations
+	url = git@github.com:claytonjwong/difficult-conversations.git
