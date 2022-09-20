@@ -127,6 +127,7 @@ Update existing submodules from the command line:
 
 ## Beneficial Songs
 * [Rise Up](https://www.youtube.com/watch?v=x12CWu3V0lg)
+* [I Ain't Worried](https://www.youtube.com/watch?v=mNEUkkoUoIA)
 * [Whatever It Takes](https://www.youtube.com/watch?v=gOsM-DYAEhY)
 * [Try To Be Best](https://www.youtube.com/watch?v=oomCIXGzsR0)
 * [Try Everything](https://www.youtube.com/watch?v=c6rP-YP4c5I)
