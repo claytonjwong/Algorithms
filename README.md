@@ -126,8 +126,9 @@ Update existing submodules from the command line:
 * [Mathematical Proofs](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Mathematical_Proofs)
 
 ## Beneficial Songs
-* [Rise Up](https://www.youtube.com/watch?v=x12CWu3V0lg)
 * [I Ain't Worried](https://www.youtube.com/watch?v=mNEUkkoUoIA)
+* [Rise Up](https://www.youtube.com/watch?v=x12CWu3V0lg)
+* [No Time for Toxic People](https://www.youtube.com/watch?v=wJt2qKPZpsk)
 * [Whatever It Takes](https://www.youtube.com/watch?v=gOsM-DYAEhY)
 * [Try To Be Best](https://www.youtube.com/watch?v=oomCIXGzsR0)
 * [Try Everything](https://www.youtube.com/watch?v=c6rP-YP4c5I)
