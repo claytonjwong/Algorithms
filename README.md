@@ -65,6 +65,11 @@ Update existing submodules from the command line:
 ```
 
 ## Jedi Mind Tricks
+
+> Your mind will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions.
+>
+[-Marcus Aurelius, *Meditations*, 5.16](https://en.wikipedia.org/wiki/Meditations)
+
 * [Mini Habits](https://claytonjwong.github.io/mini-habits/)
 * [Learning How to Learn](https://claytonjwong.github.io/learning/)
 * [How to be an Imperfectionist](https://claytonjwong.github.io/imperfectionist/)
