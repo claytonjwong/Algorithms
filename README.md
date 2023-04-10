@@ -86,6 +86,7 @@ Update existing submodules from the command line:
 * [Professional Skills for the Workplace](https://claytonjwong.github.io/professional-skills-for-the-workplace/)
 * [Emotional Intelligence: Cultivating Immensely Human Interactions](https://claytonjwong.github.io/emotional-intelligence/)
 * [Difficult Convestations](https://claytonjwong.github.io/difficult-conversations/)
+* [Why We Sleep](https://claytonjwong.github.io/sleep/)
 
 ## Algorithms
 
