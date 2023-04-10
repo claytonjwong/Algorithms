@@ -76,3 +76,6 @@
 [submodule "difficult-conversations"]
 	path = difficult-conversations
 	url = git@github.com:claytonjwong/difficult-conversations.git
+[submodule "sleep"]
+	path = sleep
+	url = git@github.com:claytonjwong/sleep.git
