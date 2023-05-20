@@ -87,6 +87,7 @@ Update existing submodules from the command line:
 * [Emotional Intelligence: Cultivating Immensely Human Interactions](https://claytonjwong.github.io/emotional-intelligence/)
 * [Difficult Convestations](https://claytonjwong.github.io/difficult-conversations/)
 * [Why We Sleep](https://claytonjwong.github.io/sleep/)
+* [Small Talk](https://github.com/claytonjwong/small-talk)
 
 ## Algorithms
 
