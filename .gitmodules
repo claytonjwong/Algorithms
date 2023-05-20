@@ -79,3 +79,6 @@
 [submodule "sleep"]
 	path = sleep
 	url = git@github.com:claytonjwong/sleep.git
+[submodule "small-talk"]
+	path = small-talk
+	url = git@github.com:claytonjwong/small-talk.git
