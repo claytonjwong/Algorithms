@@ -141,3 +141,7 @@ Update existing submodules from the command line:
 * [Try To Be Best](https://www.youtube.com/watch?v=oomCIXGzsR0)
 * [Try Everything](https://www.youtube.com/watch?v=c6rP-YP4c5I)
 * [Get Back Up Again](https://www.youtube.com/watch?v=IFuFm0m2wj0)
+* [Broken](https://www.youtube.com/watch?v=qr1-WpWOUk8)
+  * We are all imperfect, thus we all have broken parts of us
+    * 🙂 **Yes and** we can **support** one another as works-in-progress to **lift** each other **up**
+    * 😔 rather than *judge* one another and *tear* each other *down*
