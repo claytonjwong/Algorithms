@@ -7,7 +7,7 @@ Images can be imprinted upon the mind as a "feeling" which can be sent through t
 
 ## The First 314 Digits of PI
 
-Stored in the hippocampus as three matrices of `10` rows and `10` columns, followed by one row of `10`, followed by one row of `4`.
+A stored "feeling" represented as three matrices of `10` rows and `10` columns, followed by one row of `10`, followed by one row of `4`.
 
 ![](first_314_digits_of_PI.png)
 
