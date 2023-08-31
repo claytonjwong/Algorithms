@@ -3,7 +3,7 @@
 >
 [-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
-Images can be imprinted upon the mind as a "feeling" which can be placed into the hippocampus (the mind's "long-term memory store") to later been "seen" upon demand by the prefrontal cortex (the mind's "smart manager") and expressed via the basal ganglia (the mind's "stupid repeater"); and thus, it is possible to beneficially self-modify our minds by iteratively improving our observational opportunities for growth and adapting accordingly with metacognition.  Yet, some tasks and settings preclude people from receiving self-correcting information which would reveal the suboptimal nature of their decisions ([the Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning-Kruger_effect)).  Double-ignorance is similar to a dependency loop: how can we find an entry point within a bidirectionally cyclic graph?
+Images can be imprinted upon the mind as a "feeling" which can be sent through the hippocampus into the mind's "long-term memory store" to later been "seen" upon demand by the prefrontal cortex (the mind's "smart manager") and expressed via the basal ganglia (the mind's "stupid repeater"); and thus, it is possible to beneficially self-modify our minds by iteratively improving our observational opportunities for growth and adapting accordingly with metacognition.  Yet, some tasks and settings preclude people from receiving self-correcting information which would reveal the suboptimal nature of their decisions ([the Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning-Kruger_effect)).  Double-ignorance is similar to a dependency loop: how can we find an entry point within a bidirectionally cyclic graph?
 
 ## The First 314 Digits of PI
 
