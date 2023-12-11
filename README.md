@@ -120,8 +120,9 @@ Update existing submodules from the command line:
 
 ## [AdventOfCode.com](https://www.adventofcode.com/)
 
-* [2022 - PY](https://claytonjwong.github.io/advent-of-code/2022/)
-* [2020 - PY](https://claytonjwong.github.io/advent-of-code/2020/)
+* [2023 - Py3](https://claytonjwong.github.io/advent-of-code/2023/)
+* [2022 - Py3](https://claytonjwong.github.io/advent-of-code/2022/)
+* [2020 - Py3](https://claytonjwong.github.io/advent-of-code/2020/)
 * [2019 - JS](https://claytonjwong.github.io/advent-of-code/2019/)
 * [2018 - C++](https://github.com/claytonjwong/advent-of-code/tree/master/2018)
 * [2017 - C++](https://github.com/claytonjwong/advent-of-code/tree/master/2017)
