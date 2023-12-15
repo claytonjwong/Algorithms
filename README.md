@@ -89,6 +89,24 @@ Update existing submodules from the command line:
 * [Why We Sleep](https://claytonjwong.github.io/sleep/)
 * [Small Talk](https://github.com/claytonjwong/small-talk)
 
+### Flow
+
+> I'm one with the Force, and the Force is with me
+>
+-[Chirrut Îmwe](https://www.starwars.com/databank/chirrut-imwe)
+
+https://en.wikipedia.org/wiki/Flow_(psychology)
+
+* Be Useful (Arnold Schwarzenegger)
+* Deep Work (Cal Newport)
+* Finding Flow: The Psychology of Engagement with Everyday Life (Mihaly Csikszentmihalyi)
+* Focus: The Hidden Driver of Excellence (Daniel Goleman)
+* Hidden Potential (Adam Grant)
+* Stealing Fire (Steven Kotler & Jamie Wheal)
+* The Art of Impossible (Steven Kotler)
+* The Rise of Superman (Steven Kotler)
+* Yoga and the Quest for the True Self (Stephen Cope)
+
 ## Algorithms
 
 > Simplicity is the ultimate sophistication
