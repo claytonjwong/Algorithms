@@ -98,12 +98,17 @@ Update existing submodules from the command line:
 https://en.wikipedia.org/wiki/Flow_(psychology)
 
 * Be Useful (Arnold Schwarzenegger)
+* Creativity (Mihaly Csikszentmihalyi)
 * Deep Work (Cal Newport)
+* Essentialism (Greg McKeown)
 * Finding Flow: The Psychology of Engagement with Everyday Life (Mihaly Csikszentmihalyi)
+* Flow: The Psychology of Optimal Experience (Mihaly Csikszentmihalyi)
 * Focus: The Hidden Driver of Excellence (Daniel Goleman)
 * Hidden Potential (Adam Grant)
 * Stealing Fire (Steven Kotler & Jamie Wheal)
 * The Art of Impossible (Steven Kotler)
+* The Power of Habit (Charles Duhigg)
+* The Power of Now (Eckhart Tolle)
 * The Rise of Superman (Steven Kotler)
 * Yoga and the Quest for the True Self (Stephen Cope)
 
