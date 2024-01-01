@@ -132,6 +132,7 @@ https://en.wikipedia.org/wiki/Flow_(psychology)
 
 ## Projects
 * [Rubik's Cube](https://claytonjwong.github.io/rubiks-cube/)
+* [Savor Quest](https://github.com/claytonjwong/savor-quest)
 * [Towers of Hanoi](https://claytonjwong.github.io/Towers-Of-Hanoi/)
 
 ## Competitive Programming

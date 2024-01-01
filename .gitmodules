@@ -82,3 +82,6 @@
 [submodule "small-talk"]
 	path = small-talk
 	url = git@github.com:claytonjwong/small-talk.git
+[submodule "savor-quest"]
+	path = savor-quest
+	url = git@github.com:claytonjwong/savor-quest.git
