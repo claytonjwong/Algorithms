@@ -148,9 +148,10 @@ https://en.wikipedia.org/wiki/Flow_(psychology)
 
 ## [AdventOfCode.com](https://www.adventofcode.com/)
 
-* [2023 - Py3](https://claytonjwong.github.io/advent-of-code/2023/)
-* [2022 - Py3](https://claytonjwong.github.io/advent-of-code/2022/)
-* [2020 - Py3](https://claytonjwong.github.io/advent-of-code/2020/)
+* [2025 - Python3](https://claytonjwong.github.io/advent-of-code/2025/)
+* [2023 - Python3](https://claytonjwong.github.io/advent-of-code/2023/)
+* [2022 - Python3](https://claytonjwong.github.io/advent-of-code/2022/)
+* [2020 - Python3](https://claytonjwong.github.io/advent-of-code/2020/)
 * [2019 - JS](https://claytonjwong.github.io/advent-of-code/2019/)
 * [2018 - C++](https://github.com/claytonjwong/advent-of-code/tree/master/2018)
 * [2017 - C++](https://github.com/claytonjwong/advent-of-code/tree/master/2017)
