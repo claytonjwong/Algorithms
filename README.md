@@ -53,6 +53,44 @@ A stored "feeling" represented as three matrices of `10` rows and `10` columns, 
 6063
 ```
 
+## The First 271 Digits of Euler's Number
+
+A stored "feeling" represented as `3` matrices of `9` rows and `10` columns followed by the 271<sup>st</sup> digit: `3`.
+
+```
+2718281828
+4590452353
+6028747135
+2662497757
+2470936999
+5957496696
+7627724076
+6303535475
+9457138217
+
+8525166427
+4274663919
+3200305992
+1817413596
+6290435729
+0033429526
+0595630738
+1323286279
+4349076323
+
+3829880753
+1952510190
+1157383418
+7930702154
+0891499348
+8416750924
+4761460668
+0822648001
+6847741185
+
+3
+```
+
 ## Download Instructions
 Use git to clone this repository and submodules from the command line:
 
